@@ -2,7 +2,9 @@
 import java.util.Scanner;
 
 //Tersi duzune beraber olan sozler veya reqemler toplusu palindrome adlanir.
-
+/* Author Lachinquluyev@gmail.com
+Lachin Guluyev
+ */
 public class Palindrome {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
